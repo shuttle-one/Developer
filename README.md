@@ -11,13 +11,13 @@ The base URL is: http://shuttleone.network:9007/api
 ## API documentation
    Refer to the following for description of each endpoint
    
-## GET /api/servertime
-### Description:
+### GET /api/servertime
+#### Description:
     Get server timestamp.
-Query:
+#### Query:
 
     write api (for test encrypt)
-Response: unix time stamp
+#### Response: unix time stamp
       1529999999
 
 
