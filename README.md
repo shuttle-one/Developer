@@ -20,8 +20,8 @@ The base URL is: http://shuttleone.network:9007/api
 #### Response: unix time stamp
     1529999999
 
-### GET api/szo/wallet/create
-	example api/szo/wallet/create
+### GET api/szo/create
+	example api/szo/create
 #### Description:
 	Create new wallet account
 #### Query:
